@@ -1,0 +1,4 @@
+﻿  shapes2.cpp
+Shape.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Shape::print(void)" (?print@Shape@@UAEXXZ)
+Shape.obj : error LNK2001: unresolved external symbol "public: virtual int __thiscall Shape::perimetri(void)" (?perimetri@Shape@@UAEHXZ)
+C:\Users\nikas\source\repos\shapes2\Debug\shapes2.exe : fatal error LNK1120: 2 unresolved externals
